@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "perldoc-lookup",
+          "submenu": [
+              {
+                "label": "Lookup on perldoc.perl.org",
+                "command": "perldoc-lookup:lookup-perldoc"
+              },
+              {
+                "label": "Lookup on MetaCPAN",
+                "command": "perldoc-lookup:lookup-metacpan"
+              }
+          ]
+        }
+      ]
+    }
+  ]
+}
