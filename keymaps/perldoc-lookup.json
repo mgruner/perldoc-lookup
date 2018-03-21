@@ -1,5 +1,9 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-p": "perldoc-lookup:toggle"
-  }
+    "atom-workspace": {
+        "ctrl-alt-p": "perldoc-lookup:toggle"
+    },
+    "atom-text-editor": {
+        "shift-alt-m": "perldoc-lookup:lookup-metacpan",
+        "shift-alt-l": "perldoc-lookup:lookup-perldoc"
+    }
 }
