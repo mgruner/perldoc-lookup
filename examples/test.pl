@@ -6,4 +6,3 @@ use Specio::Subs;
 grep
 
 # TODO:
-#   assign proper keymaps
