@@ -4,9 +4,11 @@
   "version": "0.1.0",
   "description": "Quickly lookup perldoc on perldoc.perl.org or MetaCPAN.",
   "keywords": [
+    "Perl",
+    "language-perl",
+    "documentation",
     "perldoc",
-    "metacpan",
-    "Perl"
+    "metacpan"
   ],
   "activationHooks": [
     "language-perl:grammar-used"
