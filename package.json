@@ -1,7 +1,7 @@
 {
   "name": "perldoc-lookup",
   "main": "./lib/perldoc-lookup",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quickly lookup perldoc on perldoc.perl.org or MetaCPAN.",
   "keywords": [
     "Perl",
