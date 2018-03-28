@@ -1,4 +1,4 @@
-A small helper to quickly lookup documentation for Perl code on [http://perldoc.perl.org](perldoc.perl.org) or on [https://metacpan.org](MetaCPAN) (opens a browser window).
+A small helper to quickly lookup documentation for Perl code on [perldoc.perl.org](http://perldoc.perl.org) or on [MetaCPAN](https://metacpan.org) (opens a browser window).
 
 ## Usage
 
